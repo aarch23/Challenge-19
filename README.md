@@ -32,8 +32,10 @@ A transaction hash code associated with the validated blockchain transaction is 
 
 For further confirmation, the user can navigate to the Transactions section of Ganache to review the blockchain transaction details. Here is an example of a successful transaction of this application and the balance deducted from the user's account in Ganache:
 
-![transaction example.](Images/transaction.png)
-![user account example.](Images/account.png)
+![transaction example.] <img width="1187" alt="transaction" src="https://user-images.githubusercontent.com/100783805/187078142-73408de9-c795-4896-815f-fc7dcb87d919.png">
+<img width="1195" alt="account" src="https://user-images.githubusercontent.com/100783805/187078175-a3f16069-52c6-4255-8f00-26eec67d9f6f.png">
+
+
 
 ---
 ## Contributors
