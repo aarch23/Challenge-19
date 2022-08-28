@@ -1,40 +1,12 @@
-<img src= "Images/banner.png" width="930" height="200">
 
 # FINTECH TALENT CONNECTOR
 
-This Python script creates a Streamlit application to assist in hiring and paying FinTech professionals via Ethereum. The application permits the selection of a professional and specification of how many hours you wish to hire them for. After details are filled in, the applicaiton transacts the user's selection and pays the hired candidate accordingly.
+This Python script creates a Streamlit application to assist in hiring and paying FinTech professionals via Ethereum. 
 
 ---
 ## Technologies
 
 This application leverages Python 3.7.2.
-
----
-## Installation Guide
-
-* Begin by cloning the GitHub repo (the same repo that this README.md file is contained within) into your terminal. 
-
-*  Create a new environment and install the below listed dependencies. To do so, in your terminal while in this same repo, pass the following commands in order:
-
-```python
-conda create -n env_whatever_name python==3.7.2+ (i.e. any python version above 3.7.1)
-conda activae env_whatever_name
-pip install streamlit
-pip install web3==5.17
-pip install eth-tester==0.5.0b3
-pip install mnemonic
-pip install bip44
-```
-* Next, download [Ganache](https://www.trufflesuite.com/ganache).
-
-* After installing and opening Ganache, copy the mnemonic phrase listed up top. For reference (the 12 words behind the black highlight):
-<p style="text-align:center;"><img src="./Images/mnemonic.png" width="500" height="200"/></p>
-
-* Create a '.env' file and within it paste the following: 
-```bash
-MNEMONIC = "(Whatever you copied from Ganache)"
-```
-* Within your terminal, navigate to the folder where you cloned the repo.
 
 ---
 ## Running the Code
@@ -66,8 +38,7 @@ For further confirmation, the user can navigate to the Transactions section of G
 ---
 ## Contributors
 
-Nicole Roberts,
-elle.nicole.roberts@gmail.com
+Aarchit Malhotra,
 
 ---
 
