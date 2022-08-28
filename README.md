@@ -40,7 +40,7 @@ For further confirmation, the user can navigate to the Transactions section of G
 ---
 ## Contributors
 
-Aarchit Malhotra,
+Aarchit Malhotra
 
 ---
 
